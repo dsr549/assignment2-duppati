@@ -32,3 +32,16 @@ Indra Gandhi international airport is closest to National Museum
     * krishi bhavan
 * For stay Taj Mahal Hotel is the best place
 [link to aboutme](AboutMe.md)
+
+****
+### Tables
+ 
+ The following table describes famous cities everyone must visit.
+|Name of city|Important location|Time   |
+|:---------: |:----------------:|:-----:|
+| Newyork    | Statue of Liberty|3 hours|
+| Tokyo      | tokyo skytree    |4 hours|
+| London     | British museum   |5 hours|
+| Paris      | Eiffel tower     |5 hours|
+
+
