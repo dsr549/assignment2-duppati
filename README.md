@@ -12,8 +12,8 @@ Indra Gandhi international airport is closest to National Museum
 1.Maryvile
 2.kansas city   
     1.airport
-    2. terminal 
-    3. check the next flight time to newyork
+    2.terminal 
+    3.check the next flight time to newyork
 3.Newyork
     1.airport
     2.terminal number
