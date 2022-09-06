@@ -31,4 +31,4 @@ Indra Gandhi international airport is closest to National Museum
     * Shastri bhavan
     * krishi bhavan
 * For stay Taj Mahal Hotel is the best place
-[link the file](AboutMe.md)
+[link to aboutme](AboutMe.md)
