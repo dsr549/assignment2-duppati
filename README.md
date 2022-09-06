@@ -45,3 +45,9 @@ Indra Gandhi international airport is closest to National Museum
 | Paris      | Eiffel tower     |5 hours|
 
 
+***
+# Pithy Quotes
+>"Life is a journey, not a destination."
+>Author: Ralph Waldo Emerson<br>
+>"Enthusiasm makes up for a host of deficiencies."
+>Author: Barack Obama
