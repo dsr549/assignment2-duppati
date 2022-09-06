@@ -23,3 +23,12 @@ Indra Gandhi international airport is closest to National Museum
     2.make an cab booking from airport to National Museum
     3.or if not able the book a guide 
 
+* Other locations from around the Museum
+* India Gate
+* Paraliment Of India
+* bhavan to visit
+    * Andhra bhavan
+    * Shastri bhavan
+    * krishi bhavan
+* For stay Taj Mahal Hotel is the best place
+
