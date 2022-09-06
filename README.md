@@ -51,3 +51,21 @@ Indra Gandhi international airport is closest to National Museum
 >Author: Ralph Waldo Emerson<br>
 >"Enthusiasm makes up for a host of deficiencies."
 >Author: Barack Obama
+
+***
+# Code fencing
+>The getimagesize() function will determine the size of any supported given image file and return the dimensions along with the file type and a height/width text string to be used inside a normal HTML IMG tag and the correspondent HTTP content type. Quick link to the source<https://www.php.net/manual/en/function.getimagesize.php>
+
+```
+<?php
+
+  list($width, $height, $type, $attr) = getimagesize("url/to/image.jpg");
+
+  echo "Image width " . $width;
+  echo "Image height " . $height;
+  echo "Image type " . $type;
+  echo "Attribute " . $attr;
+
+?>
+```
+Quick link to the code<https://css-tricks.com/snippets/php/get-widthheight-of-image/>
